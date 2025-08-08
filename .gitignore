@@ -1,0 +1,28 @@
+# --- IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# --- Archivos del sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Eclipse / Spring Tool Suite (STS) ---
+.project
+.classpath
+.settings/
+.springBeans
+
+# --- Maven ---
+target/
+
+# --- Logs ---
+*.log
+
+# --- Empaquetados ---
+*.jar
+*.war
+
+# --- Archivos específicos locales ---
+**/LocalServer.java
